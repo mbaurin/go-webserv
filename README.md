@@ -2,6 +2,11 @@
 
 This is a very little go Webserver 
 
+To launch this Mini go Webserver 2 simples commands :
+
+- First: go build
+- Then: go run main.go
+
 The structure of the server :
 
 ![alt text](https://github.com/mbaurin/go-webserv/blob/main/img.png)
@@ -13,10 +18,3 @@ The structure of the server :
 - /form.html will allow you to submit your name and adress that will lead to :
 
 - /form that will prompt your infos
-
-To launch this Mini go Webserver 2 simples commands :
-
-- First: go build
-- Then: go run main.go
-
-
