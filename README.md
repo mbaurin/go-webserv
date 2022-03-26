@@ -1,6 +1,6 @@
-# Mini go webserver
+# Mini go Webserver
 
-This is a very little go webserver 
+This is a very little go Webserver 
 
 The structure of the server :
 
@@ -13,3 +13,10 @@ The structure of the server :
 - /form.html will allow you to submit your name and adress that will lead to :
 
 - /form that will prompt your infos
+
+To launch this Mini go Webserver 2 simples commands :
+
+- First: go build
+- Then: go run main.go
+
+
